@@ -1,4 +1,4 @@
-![logo](https://github.com/ARYAN555279/ARYAN-MANDALIYA/blob/main/BANNER%202.png)
+![logo](https://github.com/ARYAN555279/ARYAN555279/blob/main/BANNER%202.png)
 <h1 align="center">Hi 👋, I'm Aryan Mandaliya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
